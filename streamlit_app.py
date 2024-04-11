@@ -10,3 +10,4 @@ st.divider()
 
 st.markdown("en un **lugar** de la mancha")
 st.markdown(":orange[TOMATE]")
+st.markdown(":mediumseagreen[fresas]")
