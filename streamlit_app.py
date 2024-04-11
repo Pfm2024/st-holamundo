@@ -13,8 +13,12 @@ st.markdown(":orange[TOMATE]")
 st.markdown(":rainbow[fresas]")
 
 multilinea = """
-kjsadhlkasjdhfklsahdf  jñlkjasdlkfj
+kjsadhlkasjdhfklsahdf 
+
+jñlkjasdlkfj
+
 kdjshdkljhasld
+
 kjshdflksjhdlfk
 sdkjfhksjdhfkkk
 """
