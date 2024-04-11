@@ -5,3 +5,7 @@ st.header("mi primera pagina en python")
 st.subheader("Introduccion")
 st.write("hola mundo")
 st.caption("Ey!")
+
+st.divider()
+
+st.markdown("en un **lugar** de la mancha")
